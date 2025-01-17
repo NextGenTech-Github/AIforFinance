@@ -1,6 +1,8 @@
 # AIforFinance
 
 
+
+
 ## Applications in Finance
 ### Financial Analysis:
 
@@ -76,3 +78,5 @@
 ### 6. Derivatives and Pricing Models
 - Derivatives and types of derivatives
 - Applying the Black-Scholes formula
+
+https://www.markdownguide.org/getting-started/
