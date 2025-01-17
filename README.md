@@ -41,11 +41,11 @@ Blockchain analytics.
 
 ### 1. Stock and Portfolio Performance Analysis
 
--Rate of return of stocks
--Rate of return of stock portfolios
--Risk of stocks
--Risk of stock portfolios
--Sharpe ratio
+- Rate of return of stocks
+- Rate of return of stock portfolios
+- Risk of stocks
+- Risk of stock portfolios
+- Sharpe ratio
 
 ### 2. Risk and Correlation Analysis
 -Correlation between stocks
