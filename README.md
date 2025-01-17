@@ -40,6 +40,7 @@ Blockchain analytics.
 ## Here is a structured grouping of the topics based on the relevant finance functions:
 
 ### 1. Stock and Portfolio Performance Analysis
+
 Rate of return of stocks
 Rate of return of stock portfolios
 Risk of stocks
